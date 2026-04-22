@@ -6,12 +6,72 @@
   "cover": "",
   "chapters": {
     "1": {
-      "title": "Volume 1",
-      "volume": "",
+      "title": "The Monkey King (Son Goku and Friends)",
+      "volume": "1",
       "last_updated": "1776901738",
       "groups": {
-        "": [
+        "Dragon Ball": [
           "https://drive.usercontent.google.com/download?id=1_ZEqW9SEFXprGHRaOoqLtGDJ3L314zei"
+        ]
+      }
+    },
+    "2": {
+      "title": "Wish Upon a Dragon (A Critical Moment for the Dragon Balls)",
+      "volume": "2",
+      "last_updated": "1776902020",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1UantjdH97XqivNDGP_pKuvSQW6jFpb5f/view?usp=drivesdk"
+        ]
+      }
+    },
+    "3": {
+      "title": "The Training of Kame-sen'nin (The Tenka'ichi Budōkai Begins!!)",
+      "volume": "3",
+      "last_updated": "1776902061",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1Jcq-5egitGLLBsznnD69dSsgr39sbHkZ/view?usp=drivesdk"
+        ]
+      }
+    },
+    "4": {
+      "title": "Strongest Under the Heavens (The Grand Finals)",
+      "volume": "4",
+      "last_updated": "1776902102",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1WPncJLWhl-d2P8je-vHnVsymh_hCQrVL/view?usp=drivesdk"
+        ]
+      }
+    },
+    "5": {
+      "title": "The Red Ribbon Army (The Terror of Muscle Tower)",
+      "volume": "5",
+      "last_updated": "1776902137",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1J2rjtXSSTNWCP9vhPDySJ1fklaN4V7Rx/view?usp=drivesdk"
+        ]
+      }
+    },
+    "6": {
+      "title": "Bulma Returns! (Bulma's Big Mistake!!)",
+      "volume": "6",
+      "last_updated": "1776902167",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1uihoGNgUcM7_ckrjxyg5wL34lGAbN7IM/view?usp=drivesdk"
+        ]
+      }
+    },
+    "7": {
+      "title": "General Blue and the Pirate Treasure (Pursuit!! General Blue)",
+      "volume": "7",
+      "last_updated": "1776902221",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1bcAWj-NtpzXKQ8kbFMAoUJ3Uvpr-T2G0/view?usp=drivesdk"
         ]
       }
     }
