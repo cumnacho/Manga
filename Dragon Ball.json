@@ -1,9 +1,9 @@
 {
   "title": "Dragon Ball",
   "description": "",
-  "artist": "",
+  "artist": "Akira Toriyama",
   "author": "Akira Toriyama",
-  "cover": "",
+  "cover": "https://m.media-amazon.com/images/I/81-1jqVHePL._AC_UF1000,1000_QL80_.jpg",
   "chapters": {
     "1": {
       "title": "The Monkey King (Son Goku and Friends)",
@@ -72,6 +72,96 @@
       "groups": {
         "Dragon Ball": [
           "https://drive.google.com/file/d/1bcAWj-NtpzXKQ8kbFMAoUJ3Uvpr-T2G0/view?usp=drivesdk"
+        ]
+      }
+    },
+    "8": {
+      "title": "Taopaipai and Master Karin (Son Goku's Assault)",
+      "volume": "8",
+      "last_updated": "1776902342",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1GA3c5lAtmo4GmMYirU_tX-DL0GkAMssh/view?usp=drivesdk"
+        ]
+      }
+    },
+    "9": {
+      "title": "Test of the All-Seeing Crone (When Worried, See Baba Uranai)",
+      "volume": "9",
+      "last_updated": "1776902375",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/18MH3GpHQ1LPtcCJzsuzlARSH2EikfHN8/view?usp=drivesdk"
+        ]
+      }
+    },
+    "10": {
+      "title": "Return to the Tournament (The 22nd Tenka'ichi Budōkai)",
+      "volume": "10",
+      "last_updated": "1776902414",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1NS0-rfikOvRE6x0_DvvjTUAM6FimNe_7/view?usp=drivesdk"
+        ]
+      }
+    },
+    "11": {
+      "title": "The Eyes of Tenshinhan (The World's Greatest Super Battle!!)",
+      "volume": "11",
+      "last_updated": "1776902449",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1qUajZ3pXw5e0051KKL6WifDa2Ok3vKFS/view?usp=drivesdk"
+        ]
+      }
+    },
+    "12": {
+      "title": "The Demon King Piccolo (The Terror of Piccolo Daimao!)",
+      "volume": "12",
+      "last_updated": "1776902475",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1ZjNTRRhgr2nuPJoxjfoqgpALsAt_oYBB/view?usp=drivesdk"
+        ]
+      }
+    },
+    "13": {
+      "title": "Piccolo Conquers the Earth (Son Goku's Counterattack!?)",
+      "volume": "13",
+      "last_updated": "1776902509",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1_aA3Z28hUBRpDPpwph38aia8oaxA43O5/view?usp=drivesdk"
+        ]
+      }
+    },
+    "14": {
+      "title": "Heaven and Earth (Even More Action)",
+      "volume": "14",
+      "last_updated": "1776902533",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/173xbmvw80aIEB4eO8VQrHUdbnDDk3UoB/view?usp=drivesdk"
+        ]
+      }
+    },
+    "15": {
+      "title": "The Titanic Tournament (Rivals Standing Their Ground!)",
+      "volume": "15",
+      "last_updated": "1776902568",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1NjtvJ824jRowCBtszaG7CwKYS-qVwnh7/view?usp=drivesdk"
+        ]
+      }
+    },
+    "16": {
+      "title": "Goku vs. Piccolo (The Dragon and Tiger Mutually Strike!)",
+      "volume": "16",
+      "last_updated": "1776902596",
+      "groups": {
+        "Dragon Ball": [
+          "https://drive.google.com/file/d/1LWUEjFL3cjxo29zRfQPjlZ-BrRy0UNnR/view?usp=drivesdk"
         ]
       }
     }
